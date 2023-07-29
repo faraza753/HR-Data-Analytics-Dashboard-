@@ -18,19 +18,19 @@ The HR department lacks visibility into the average age of employees, making it 
 
 **Chart's Requirement**
 
-Attrition by Gender:
+1. Attrition by Gender:
 The HR department faces challenges in understanding the attrition patterns based on gender, making it difficult to identify any gender-related disparities and implement targeted retention strategies.
-Department-wise Attrition:
+2. Department-wise Attrition:
 The HR department lacks visualizations to showcase attrition rates across different departments. This hinders their ability to identify departments with higher attrition rates and address any underlying issues or concerns effectively.
-Number of Employees by Age Group:
+3. Number of Employees by Age Group:
 The HR department requires visual representations to analyze the distribution of employees across various age groups. This helps in assessing workforce demographics, identifying any age-related gaps or imbalances, and implementing targeted HR policies or programs.
-Job Satisfaction Ratings:
+4. Job Satisfaction Ratings:
 The HR department lacks visualizations to represent job satisfaction ratings, hindering their ability to measure employee engagement and overall job satisfaction levels effectively.
 
 
 **Chart's Requirement**
 
-Education Field-wise Attrition:
+1. Education Field-wise Attrition:
 The HR department requires visual representations to analyze attrition rates based on education fields. This helps identify specific educational backgrounds that may be associated with higher attrition, enabling the organization to tailor retention strategies accordingly.
-Attrition Rate by Gender for Different Age Groups:
+2. Attrition Rate by Gender for Different Age Groups:
 The HR department lacks visualizations that display attrition rates based on gender and different age groups. This makes it challenging to identify any age and gender-related attrition trends, preventing the organization from implementing targeted retention strategies for specific employee segments.
