@@ -1,4 +1,6 @@
 # HR-Data-Analytics-Dashboard-Power BI
+![image](https://github.com/faraza753/HR-Data-Analytics-Dashboard-/assets/60393455/31db93a8-094e-4325-9dc6-bf2b9599b9b9)
+
 
 **PROBLEM STATEMENT**
 **KPI's Requirement**
